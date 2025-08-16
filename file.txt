@@ -1,4 +1,1 @@
-functionary(a){
-}
-
-functionary(10)
+cambios hechos en casa
