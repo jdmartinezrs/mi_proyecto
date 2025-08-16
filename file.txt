@@ -2,7 +2,7 @@ cambios hechos en rama nueva_funcionalidad
 function getFrancional (num) {
     let count = 1;
     for(let i = 1; i<= num ; i++){
-        count = count=count*i
+        count *= i;
     }
     return count;
 }
