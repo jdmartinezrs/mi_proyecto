@@ -1,2 +1,4 @@
-functionary(){
+functionary(a){
 }
+
+functionary(10)
